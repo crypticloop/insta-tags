@@ -1,7 +1,5 @@
-def hamm(a):
-    print("Add this: " + str(a))
+def function(name):
+    print("Hello %s" % name)
 
 
-(hamm('Tile'))
-
-# new branch created
+function("Nick")
