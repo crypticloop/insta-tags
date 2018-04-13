@@ -3,3 +3,5 @@ def function(name):
 
 
 function("Nick")
+
+function("Lucy")
